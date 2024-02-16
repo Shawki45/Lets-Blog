@@ -1,6 +1,6 @@
 const express = require('express');
 const exphbs = require('express-handlebars');
-const postController = require('./controllers/postController');
+const postController = require('./controllers/postcontrollers');
 
 const app = express();
 
